@@ -1,0 +1,157 @@
+🚀 RIKYSHOP OTP BOT V2
+�
+￼ ￼ ￼ ￼ 
+
+�
+BOT TELEGRAM AUTO NOKOS / OTP DIGITAL
+Auto Order • Auto OTP • Auto Deposit • Auto Panel • Auto VPS 
+
+✨ FEATURES
+📱 NOKOS / OTP SYSTEM
+Auto order nomor OTP
+Auto receive kode OTP
+Auto cancel order
+Auto refund saldo
+Multi negara
+Multi aplikasi
+Auto delete OTP channel
+Real-time status order
+
+💰 AUTO DEPOSIT
+Support payment:
+QRIS
+RumahOTP
+Cashify
+Features:
+Auto detect payment
+Auto add balance
+Real-time notification
+Deposit history
+
+☁️ VPS & PANEL
+Pterodactyl Installer
+Auto install panel
+Auto install wings
+Auto create node
+Auto configure panel
+VPS DigitalOcean
+Auto create VPS
+Multi API support
+Auto stock checking
+
+🌐 SUBDOMAIN SYSTEM
+Auto create subdomain
+Cloudflare API integration
+Auto pointing IP
+Delete subdomain
+Unlimited subdomain
+
+⚡ INSTALLATION
+1. Clone Repository
+Bash
+git clone https://github.com/username/repo.git
+cd repo
+2. Install Dependencies
+Bash
+npm install
+3. Configure Bot
+Edit:
+Bash
+config.js
+Example:
+JavaScript
+module.exports = {
+  bot_token: "TOKEN_BOT",
+  owner_ids: ["YOUR_ID"],
+  apikey: "API_KEY",
+  domain: "DOMAIN"
+}
+
+▶️ RUN BOT
+Normal
+Bash
+node start.js
+PM2
+Bash
+pm2 start start.js --name rikyshop
+
+📖 USER COMMANDS
+Command
+Description
+/start
+Start bot
+/menu
+Open menu
+/saldo
+Check balance
+/deposit
+Deposit balance
+/buy
+Buy nokos
+/cekotp
+Check OTP
+/cancel
+Cancel order
+
+👑 OWNER COMMANDS
+Command
+Description
+/broadcast
+Broadcast message
+/stats
+Bot statistics
+/maintenance
+Maintenance mode
+/addsaldo
+Add user balance
+/setprofit
+Set nokos profit
+
+📂 DATABASE STRUCTURE
+Bash
+/database
+├── users.json
+├── balances.json
+├── transactions.json
+├── settings.json
+├── vouchers.json
+└── subdomains.json
+
+🛡️ SECURITY FEATURES
+Token validation
+Anti tamper
+Secure mode
+Auto shutdown if invalid
+Anti unauthorized edit
+
+🔌 API INTEGRATION
+RumahOTP API
+Cashify API
+Cloudflare API
+DigitalOcean API
+Pterodactyl API
+
+📦 REQUIREMENTS
+NodeJS 18+
+Ubuntu VPS
+PM2
+Domain
+Cloudflare Account
+
+❤️ CREDIT
+Plain text
+Developer : @rikyshopreal
+Bot Name  : RIKYSHOP OTP BOT
+Version   : 2.0 LIMITED EDITION
+
+⚠️ DISCLAIMER
+This project is made for educational and automation purposes only.
+Do not use for spam, abuse, or illegal activities.
+
+⭐ SUPPORT
+If you like this project:
+Give ⭐ on repository
+Fork this repository
+Share to your friends
+�
+RIKYSHOP OTP BOT — FAST • STABLE • POWERFUL 
